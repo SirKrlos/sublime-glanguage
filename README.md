@@ -1,1 +1,1 @@
-# sublime-glanguage
+# Sublime GLanguage Package
